@@ -1,4 +1,4 @@
-# sql-internship-Database-Setup-and-Schema-Design
+# sql-internship-Task1-Database-Setup-and-Schema-Design
 
 ## Domain: E-commerce
 
