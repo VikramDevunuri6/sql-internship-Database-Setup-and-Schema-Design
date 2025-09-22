@@ -15,7 +15,6 @@
 
 ### Deliverables
 - **SQL Script:** schema.sql
-- **ER Diagram:** er-diagram.png
 
 ### Tools Used
 - MySQL Workbench
