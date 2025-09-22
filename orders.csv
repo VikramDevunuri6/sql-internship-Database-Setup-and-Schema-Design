@@ -1,0 +1,6 @@
+order_id,customer_id,order_date,status
+1,1,2025-09-01 10:30:00,Completed
+2,2,2025-09-02 14:15:00,Shipped
+3,3,2025-09-03 09:45:00,Pending
+4,1,2025-09-04 16:20:00,Completed
+5,4,2025-09-05 11:10:00,Pending

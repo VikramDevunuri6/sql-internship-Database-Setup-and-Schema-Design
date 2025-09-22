@@ -1,0 +1,6 @@
+product_id,name,description,price,stock
+1,Laptop,"14-inch lightweight laptop, 8GB RAM, 512GB SSD",55000.0,20
+2,Smartphone,"5G Android phone, 128GB storage",25000.0,50
+3,Wireless Earbuds,Bluetooth earbuds with noise cancellation,4500.0,100
+4,Smartwatch,Fitness tracking smartwatch,12000.0,30
+5,Backpack,"Durable laptop backpack, waterproof",2000.0,75
